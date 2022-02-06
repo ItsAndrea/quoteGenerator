@@ -4,13 +4,16 @@
 
 ### Index
 
+* [Important](#Important) 📢
 * [Name](#Name) 👈
 * [Links](#Links) 🔗
 * [Description](#Description) 📖
 * [Technology](#Technology) ⚙️
 * [Screenshot](#Screenshot) 📱
-* [How the code works](#How-the-code-works) 🗺️
+* [How the code works](#How-the-code-works) 🔎
 * [Author](#Author) ✍️
+
+# Important
 
 # Name
 
