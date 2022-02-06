@@ -23,7 +23,7 @@ To see the site working you have to:
 - There you will see a list of various permissions that the page has. Choose 'Allow' next to 'Unsafe content'.
 ![2](https://user-images.githubusercontent.com/85640313/152694580-5d4b2def-5316-4948-82e7-5fb939a1960c.png)
 
-Now you must access the functionality.
+Now it works.
 # Name
 
 Quote Generator
