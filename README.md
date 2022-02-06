@@ -9,7 +9,7 @@
 * [Description](#Description) 📖
 * [Technology](#Technology) ⚙️
 * [Screenshots](#Screenshots) 📱
-* [Roadmap](#Roadmap) 🗺️
+* [How the code works](#How-the-code-works) 🗺️
 * [Authors and acknowledgment](#Authors-and-acknowledgment) ✍️
 
 # Name
