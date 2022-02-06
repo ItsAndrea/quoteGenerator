@@ -1,6 +1,6 @@
 <h1 align="center"> 💬Quote Generator💬</h1>
 
-<h2 align="center"> Listen, share and copy the best phrases in the world </h2>
+<h2 align="center"> Get phrases to distract you or share with others </h2>
 
 ### Index
 
@@ -14,7 +14,7 @@
 
 # Name
 
-Responsive Voice
+Quote Generator
 
 # Links
 
@@ -23,7 +23,7 @@ ___
 
 # Description
 
-Make your machine say what you want by entering a comment and then let the button do the magic.
+Listen, share and copy the best phrases in the world.
 
 ___
 
@@ -36,15 +36,15 @@ ___
 ____
 
 # Screenshot
-![screenshot](https://user-images.githubusercontent.com/85640313/152619782-7a6ee335-af8e-471b-8f81-0b4179ed8d87.jpg)
+![web](https://user-images.githubusercontent.com/85640313/152693667-35ea95bc-a6d7-4dd9-abe6-7d286447890a.png)
 ____
 
-# Roadmap
+# How the code works
 
 There´s no roadmap this time 
 
 ____
 
-# Authors-and-acknowledgment
+# Author
 
 * Me 😊
