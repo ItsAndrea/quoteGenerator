@@ -8,7 +8,7 @@
 * [Links](#Links) 🔗
 * [Description](#Description) 📖
 * [Technology](#Technology) ⚙️
-* [Screenshots](#Screenshots) 📱
+* [Screenshot](#Screenshot) 📱
 * [How the code works](#How-the-code-works) 🗺️
 * [Author](#Author) ✍️
 
