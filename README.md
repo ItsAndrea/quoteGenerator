@@ -14,7 +14,18 @@
 * [Author](#Author) ✍️
 
 # Important
+The project will not work if you do not configure your browser because it loads an API without HTTPS and browsers block it.
 
+To see the site working you have to:
+
+- Click on the padlock icon in the URL bar, then click on 'Site Settings'.
+![1](https://user-images.githubusercontent.com/85640313/152694563-05996ea5-4fc8-4f6d-9da5-72210956ce86.png)
+
+- There you will see a list of various permissions that the page has. Choose 'Allow' next to 'Unsafe content'.
+![2](https://user-images.githubusercontent.com/85640313/152694580-5d4b2def-5316-4948-82e7-5fb939a1960c.png)
+
+Now you must access the functionality.
+If not, I apologize and give you this video.
 # Name
 
 Quote Generator
