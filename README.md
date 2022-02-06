@@ -10,7 +10,7 @@
 * [Technology](#Technology) ⚙️
 * [Screenshots](#Screenshots) 📱
 * [How the code works](#How-the-code-works) 🗺️
-* [Authors and acknowledgment](#Authors-and-acknowledgment) ✍️
+* [Author](#Author) ✍️
 
 # Name
 
