@@ -10,7 +10,6 @@
 * [Description](#Description) 📖
 * [Technology](#Technology) ⚙️
 * [Screenshot](#Screenshot) 📱
-* [How the code works](#How-the-code-works) 🔎
 * [Author](#Author) ✍️
 
 # Important
@@ -50,12 +49,6 @@ ____
 
 # Screenshot
 ![web](https://user-images.githubusercontent.com/85640313/152693667-35ea95bc-a6d7-4dd9-abe6-7d286447890a.png)
-____
-
-# How the code works
-
-There´s no roadmap this time 
-
 ____
 
 # Author
