@@ -13,7 +13,7 @@
 * [Author](#Author) ✍️
 
 # Important
-The project will not work if you do not configure your browser because it loads an API without HTTPS and browsers block it.
+The project will not work if you do not configure your browser because it loads an API without HTTPS and browsers block it. 
 
 To see the site working you have to:
 
@@ -23,14 +23,14 @@ To see the site working you have to:
 - There you will see a list of various permissions that the page has. Choose 'Allow' next to 'Unsafe content'.
 ![2](https://user-images.githubusercontent.com/85640313/152694580-5d4b2def-5316-4948-82e7-5fb939a1960c.png)
 
-Now it works.
+Now it works(only for computers)
 # Name
 
 Quote Generator
 
 # Links
 
-[Website](https://jkmxmb2z6xgtsucis1mhvw-on.drv.tw/)
+[Website](https://readquotes.netlify.app/)
 ___
 
 # Description
